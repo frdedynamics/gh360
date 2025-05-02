@@ -1,2 +1,2 @@
-# gh360
+# GH360
 Software stack for the GH360 robot.
