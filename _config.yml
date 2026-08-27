@@ -1,4 +1,4 @@
 title: GH360
-description: Software stack for the GH360 robot.
-show_downloads: true
+description: An open-source, human-inspired articulated soft robot arm.
+show_downloads: false
 theme: jekyll-theme-cayman
