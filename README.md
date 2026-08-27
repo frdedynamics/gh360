@@ -1,2 +1,2 @@
-# gh360
+# GH360
 Control Software for the GH360 robot.
