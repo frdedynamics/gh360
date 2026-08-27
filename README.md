@@ -1,2 +1,13 @@
 # GH360
-Control Software for the GH360 robot.
+All documentation around the GH360 robot.
+
+# Joint Configuration Application
+
+## Defining a Joint in the App
+
+## Manufacturing Tendons
+
+## Mounting and Configuring Tendons on the Joints
+
+
+
